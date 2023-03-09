@@ -38,7 +38,9 @@ Channel 1 and two differ in the placement position ..
  fp1-fp2 and fp0 and ear lube. 
 
 Related publications:
-1- Al-Canaan A., Chakib H., “Performance Evaluation of Scalograms and 1-D Wavelet EEG Classifiers for Prosthetic Control System Optimisation”, Multi-Knowledge Electronic Comprehensive Journal For Education And Science Publications (MECSJ). Vol. 50, No. 1, January 2022. https://doi.org/10.1049/sil2.12080
-2- Al-Canaan A., Chakib H., Uzair. M., Toor S., Al-Khatib A. and Sultan M., “BCI- Control and Monitoring System for Smart Home Automation Using Wavelet Classifiers”, IET Signal Processing. September 2021, (DOI: https://doi.org/10.1049/sil2.12080)
+1- Al-Canaan A., Chakib H., “Performance Evaluation of Scalograms and 1-D Wavelet EEG Classifiers for Prosthetic Control System Optimisation”, Multi-Knowledge Electronic Comprehensive Journal For Education And Science Publications (MECSJ). Vol. 50, No. 1, January 2022. https://doi.org/10.1049/sil2.12080.
+
+2- Al-Canaan A., Chakib H., Uzair. M., Toor S., Al-Khatib A. and Sultan M., “BCI- Control and Monitoring System for Smart Home Automation Using Wavelet Classifiers”, IET Signal Processing. September 2021, (DOI: https://doi.org/10.1049/sil2.12080).
+
 3- Al-Canaan A. and Uzair. M. “Dual-Channel EEG Acquisition Circuit for Vehicular Safety System Based upon Brain-Computer Interface (BCI)”, The Journal of Engineering, Science and Computing (JESC). Vol. 2, No. 2, December 2020.
 
